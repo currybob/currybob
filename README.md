@@ -4,9 +4,9 @@ Intereseted in Automation, UX, and Performance.
 Make web apps using React or Vue, Typescript(or not), and Node.js 
 
 🌱 career
-- [hogangnono](https://hogangnono.com) / 2019.09 ~ / junior web developer
-- Naver Corp. / 2019.01 ~ 2019.02 / software development internship
-- Linuxware inc. / 2016.11 ~ 2017.11 / markup develop
+- [hogangnono](https://hogangnono.com) / 2019.09 ~ / Junior web developer
+- Naver Corp. / 2019.01 ~ 2019.02 / Software development internship
+- Linuxware inc. / 2016.11 ~ 2017.11 / Markup develop
 
 ⚡ project
 - [Dankookie](https://www.dankookie.com/)
