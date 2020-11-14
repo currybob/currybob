@@ -1,16 +1,21 @@
-### Hi there 👋
+### INTRO 👋
+Intereseted in Automation, UX, and Performance.
+\
+Make web apps using React or Vue, Typescript(or not), and Node.js 
 
-<!--
-**currybob/currybob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 career
+- [hogangnono](https://hogangnono.com) / 2019.09 ~ / junior web developer
+- Naver Corp. / 2019.01 ~ 2019.02 / software development internship
+- Linuxware inc. / 2016.11 ~ 2017.11 / markup develop
 
-Here are some ideas to get you started:
+⚡ project
+- [Dankookie](https://www.dankookie.com/)
+- [GitCodeShare](https://github.com/kosslab-kr/gitCodeShare.com)
+- [Dnefit](http://www.dnefit.co.kr)
+- [Sellery](https://sellery.me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 awards
+- 2018 Kosslab Contributhon, Excellence award
+
+📫 EDUCATION
+- Boost camp challenge / 2019.07 ~ 2019.08
