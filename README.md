@@ -8,12 +8,6 @@ Make web apps using React or Vue, Typescript(or not), and Node.js
 - Naver Corp. / 2019.01 ~ 2019.02 / Software development internship
 - Linuxware inc. / 2016.11 ~ 2017.11 / Markup develop
 
-⚡ project
-- [Dankookie](https://www.dankookie.com/)
-- [GitCodeShare](https://github.com/kosslab-kr/gitCodeShare.com)
-- [Dnefit](http://www.dnefit.co.kr)
-- [Sellery](https://sellery.me)
-
 👯 awards
 - 2018 Kosslab Contributhon, Excellence award
 
