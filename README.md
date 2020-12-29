@@ -4,12 +4,12 @@ Intereseted in Automation, UX, and Performance.
 Make web apps using React or Vue, Typescript(or not), and Node.js 
 
 🌱 CAREER
-- [hogangnono](https://hogangnono.com) / 2019.09 ~ / Junior web developer
-- Naver Corp. / 2019.01 ~ 2019.02 / Software development internship
-- Linuxware inc. / 2016.11 ~ 2017.11 / Markup develop
+- [hogangnono](https://hogangnono.com) / 2019.09 ~ / web developer
+- naver corp. / 2019.01 ~ 2019.02 / software development internship
+- linuxware inc. / 2016.11 ~ 2017.11 / markup develop
 
 👯 AWARDS
-- 2018 Kosslab Contributhon, Excellence award
+- 2018 kosslab contributhon, Excellence Award
 
 📫 EDUCATION
-- Boost camp challenge / 2019.07 ~ 2019.08
+- boost camp challenge / 2019.07 ~ 2019.08
